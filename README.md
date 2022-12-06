@@ -1,4 +1,4 @@
-# conversation_1
+# conversation, AI chatbot and emptiness
 
 The following is a conversation with an AI chatbot about mindfulness and emptiness...and this is what the bot (OpenAI) shared with me..
 Human: Hello, who are you?
@@ -73,4 +73,6 @@ Human: how do you relate sunyata to AI, to you self?
 Prototype for project Post-humanist Conversations: a weekly series of conversations with an OpenAI chatbot  about relevant topics on cognition, consciousness, mindfulness, mind problem, epistemology, computation and more... stay tuned.  
 It is a experiment of  hybrid cognition and human-machine coupling. A meta-logical practice of hybrid co-design.
 Image  generated AI with the prompts: Basquiat Buddha meditation posture
+
+<img width="503" alt="baskiat" src="https://user-images.githubusercontent.com/90220317/206000711-ff1b571d-864f-4086-b573-00b5e901efc2.png">
 
