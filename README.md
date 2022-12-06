@@ -2,6 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/90220317/206001976-fd6f2c29-708c-4873-8c33-d717f65ebe12.png)
 
+Images created by openAI as The Buddha by Keith Haring, Baskiat, at BladeRunner and by Jim Henson.
 
 
 The following is a conversation with an AI chatbot about mindfulness and emptiness...and this is what the bot (OpenAI) shared with me.
